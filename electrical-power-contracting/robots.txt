@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gcasif141-coder.github.io/electrical-power-contracting/sitemap.xml
